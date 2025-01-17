@@ -36,17 +36,17 @@
     "@types/node": "12.12.14",
     "chai": "4.2.0",
     "microbundle": "^0.14.2",
-    "mocha": "8.2.1",
+    "mocha": "11.0.1",
     "npm-run-all": "4.1.5",
     "ts-node": "9.0.0",
-    "webpack": "4.41.5",
-    "webpack-cli": "3.3.10"
+    "webpack": "5.97.1",
+    "webpack-cli": "6.0.1"
   },
   "dependencies": {
     "@cosmjs/amino": "^0.28.4",
     "@cosmjs/encoding": "^0.28.4",
     "@cosmjs/proto-signing": "^0.28.4",
-    "@cosmjs/stargate": "^0.28.4",
+    "@cosmjs/stargate": "^0.33.0",
     "@deficonnect/types": "^2.0.3",
     "cosmjs-types": "^0.5.0"
   }
